@@ -58,4 +58,4 @@ XGBoost modeline göre churn üzerinde en kritik faktörler:
 
 ---
 
-kaggle :
+kaggle : https://www.kaggle.com/code/perastra/telekom-musteri-churn-analizi
